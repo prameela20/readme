@@ -10,6 +10,7 @@
 💻 🌐 Front-End Web Development
 Tech Stack: HTML, CSS, JavaScript
 
+
 Designed and built responsive web applications focusing on intuitive UI/UX. Created dynamic components and interactive pages to improve user engagement and accessibility across devices.
 ✨ This project sharpened my design thinking and front-end skills, essential for sales presentations and product marketing portals.
 
