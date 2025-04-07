@@ -1,58 +1,91 @@
-# readme
-🌟 Hi, I'm Prameela Guguloth!
-🎓 B.Tech in Electronics & Instrumentation Engineering (2021–2025)
-🏫 VNR Vignana Jyothi Institute of Engineering & Technology
-💼 Aspiring Sales & Marketing Professional | Design & Planning Enthusiast
+# 👩‍💻 **Prameela Guguloth**  
+### 🎯 *Aspiring Software Engineer | Front-End Developer | AI Enthusiast* |  Sales & Marketing Professional
 
-🚀 I’m a passionate and proactive individual driven by innovation and creativity. With strong analytical skills and a tech-savvy mindset, I love building solutions that blend technology with user-centric design. My journey spans across front-end development, automation systems, and emotion-based AI modeling.
+---
 
-🔍 Featured Projects
-💻 🌐 Front-End Web Development
-Tech Stack: HTML, CSS, JavaScript
+## 📬 Contact Information
+- 📧 **Email:** prameelaguguloth23@gmail.com  
+- 🌐 **LinkedIn:** [Prameela Guguloth](https://www.linkedin.com/in/prameela-guguloth-b39545240)  
+- 📍 **Location:** Mahabubabad, Telangana, India  
 
+---
 
-Designed and built responsive web applications focusing on intuitive UI/UX. Created dynamic components and interactive pages to improve user engagement and accessibility across devices.
-✨ This project sharpened my design thinking and front-end skills, essential for sales presentations and product marketing portals.
+## 🎓 Education
+**B.Tech – Electronics & Instrumentation Engineering**  
+*VNR Vignana Jyothi Institute of Engineering & Technology* (2021–2025)  
+📌 JNTU Hyderabad | CGPA: 7.75 (Till 6th Sem)
 
-🧠 💡 Anomaly Detection in Human Emotional Analysis
-Tools: Python, Machine Learning
+**MPC – Telangana State Residential Junior College** (2019–2021)  
+📌 TSBIE | Score: 91%
 
-Developed a machine learning model to analyze physiological signals and detect emotional anomalies. Focused on improving accuracy and responsiveness using datasets and basic neural network structures.
-🎯 A great mix of tech and human behavior – this project expanded my understanding of customer emotions, a key aspect of effective sales communication.
+**SSC – AryaBhatt Concept School** (2018–2019)  
+📌 BSE Telangana | Score: 92%
 
-🏙 🅿️ PLC-Based Automatic Car Parking System
-Tools: Siemens PLC, TIA Portal
+---
 
-Programmed a ladder logic system to automate a multi-level car parking structure. Simulated real-time parking entry/exit control, slot tracking, and status display.
-⚙️ It improved my automation knowledge and logical reasoning – skills useful in design coordination and infrastructure planning.
+## 💼 Technical Skills
+- 💻 **Programming:** C, Python, SQL  
+- 🧮 **Data Structures**   
+- 🎨 **Web Technologies:** HTML, CSS  
+- 🛠️ **Software Tools:** MATLAB, NI Multisim, AutoCAD, LabVIEW  
 
-📜 Certifications
-✅ Matlab Onramp – MathWorks
+---
 
-✅ Python (Basic) Certificate – HackerRank
+## 📜 Certifications
+- 🏅 *Matlab Onramp* – MathWorks  
+- 🏅 *Python (Basic)* – HackerRank  
+- 🏅 *Artificial Intelligence Fundamentals* – Great Learning  
+- 🏅 *Communication & Interpersonal Skills* – FutureLearn  
+- 🏅 *SQL and Relational Databases* – CognitiveClass.ai  
+- 🏅 *Digital Marketing for Beginners* – Udemy  
 
-✅ Digital Marketing for Beginners – Udemy
+---
 
-✅ Artificial Intelligence Fundamentals – Great Learning
+## 💡 Academic Projects
+### 🌐 **Front-End Web Development**
+> Developed responsive websites using HTML, CSS, and JS with emphasis on user experience.
 
-✅ Communication and Interpersonal Skills – FutureLearn
+### 🧠 **Anomaly Detection in Human Emotional Analysis**
+> Created a system to detect emotional outliers using basic ML techniques and signal processing.
 
-🧰 Technical Skills
-Languages: C, Python (Basics)
+### 🌬 **Motion-Activated Fan System**
+> Built a smart fan that automatically activates based on motion detection using sensors.
 
-Tools & Platforms: MATLAB, Multisim, AutoCAD, TIA Portal
+### 🌫 **Arduino-Based Air Quality Monitoring System**
+> Designed a real-time air quality monitoring solution using Arduino and environmental sensors.
 
-Soft Skills: Communication | Teamwork | Time Management | Creative Thinking
+---
 
-🏅 Achievements & Activities
-🗣 Active Member – Sales & Marketing Club at VNRVJIET
+## 🏆 Achievements & Activities
+- 🧑‍🔬 Active Member – *Instrumentation Society of India (ISOI)*  
+- 🎤 Participant – *Paper Presentation & Ecficio 4.0 Workshop @ VNRVJIET*  
+- 🧠 Quiz Competitor – *Multiple GK Quiz Challenges*  
+- 🏅 Head Girl – *Leadership Role in School*  
+- 🏓 School Sports – *Kho-Kho, Carrom Player*  
+- ✍️ Winner – *Essay Writing Competitions*  
+- 🙋 Volunteer – *College Sports Fest*  
 
-🧠 Participated in Machine Learning workshops and paper presentations
+---
 
-👩‍💼 Head Girl during school – honing early leadership qualities
+## 🧑‍💼 Internship & Industry Exposure
+- 🔧 *30-Day Internship* – GoCinQ Training Pvt. Ltd.  
+- 🚆 *Industrial Visit* – Uppal Metro Depot  
 
-🏆 Winner in essay writing, debates, and co-curricular events
+---
 
-📌 Let’s Connect:
-🔗 LinkedIn
-📧 prameelaguguloth23@gmail.com
+## 💬 Soft Skills
+- 🧩 Problem-Solving & Logical Thinking  
+- 🗂 Project Management  
+- 🤝 Team Collaboration  
+- 📈 Planning & Execution  
+
+---
+
+## 💖 Hobbies
+🎧 Listening to Music | 🎮 Playing Carrom | ✨ Devotional Service  
+🌍 Travelling | 💬 Helping Nature  
+
+---
+
+_“Eager to contribute, learn, and grow in an environment that fosters innovation and teamwork.”_
+
