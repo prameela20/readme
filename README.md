@@ -28,9 +28,13 @@ Programmed a ladder logic system to automate a multi-level car parking structure
 
 📜 Certifications
 ✅ Matlab Onramp – MathWorks
+
 ✅ Python (Basic) Certificate – HackerRank
+
 ✅ Digital Marketing for Beginners – Udemy
+
 ✅ Artificial Intelligence Fundamentals – Great Learning
+
 ✅ Communication and Interpersonal Skills – FutureLearn
 
 🧰 Technical Skills
