@@ -4,6 +4,7 @@
 🏫 VNR Vignana Jyothi Institute of Engineering & Technology
 💼 Aspiring Sales & Marketing Professional | Design & Planning Enthusiast
 
+
 🚀 I’m a passionate and proactive individual driven by innovation and creativity. With strong analytical skills and a tech-savvy mindset, I love building solutions that blend technology with user-centric design. My journey spans across front-end development, automation systems, and emotion-based AI modeling.
 
 🔍 Featured Projects
